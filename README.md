@@ -35,7 +35,7 @@ A simple file sorting utility with a graphical interface.
 
 ## Preview
 
-
+![Interface](assets/screenshots/interface.png)
 
 ---
 
